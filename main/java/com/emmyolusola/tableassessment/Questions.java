@@ -1,0 +1,165 @@
+package com.emmyolusola.tableassessment;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.widget.Button;
+import android.widget.RadioButton;
+import android.widget.RadioGroup;
+import android.widget.TextView;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class Questions extends AppCompatActivity {
+
+    List<QuizObject> currentQuestionsList;
+    int quizListPosition;
+    RadioButton optionsButton1;
+    RadioButton optionsButton2;
+    RadioButton optionsButton3;
+    RadioButton optionsButton4;
+    private int currentQuestionPos;
+    private TextView questTV;
+    private RadioGroup group;
+    private Button next;
+    private Button prev;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_questions);
+
+        quizListPosition = getIntent().getIntExtra("quizListPosition", 0);
+
+        currentQuestionPos = getIntent().getIntExtra("quizListPosition", 0); //start pos
+        initializeViews();
+        currentQuestionsList = loadQuestionsAtPos(quizListPosition);
+        updateUI(currentQuestionPos);
+    }
+
+    /**
+     * Updates the Current Questions
+     *
+     * @param currentQuestionPos
+     */
+    private void updateUI(int currentQuestionPos) {
+
+        QuizObject quiz = currentQuestionsList.get(currentQuestionPos);
+        questTV.setText(quiz.getQuestions());
+
+        for(String opt : quiz.getOptions().get(currentQuestionPos)){
+            group.addView(optionsButton1.setText(opt));
+            group.addView(optionsButton2);
+            group.addView(optionsButton3);
+            group.addView(optionsButton4);
+        }
+//        optionsButton1.setText(quiz.getOptions());
+        QuizObject object;
+    }
+
+
+
+    private void initializeViews() {
+        questTV = (TextView)findViewById(R.id.text_question);
+        group = (RadioGroup) findViewById(R.id.radio_group);
+        optionsButton1 = (RadioButton)findViewById(R.id.option_a);
+        optionsButton2 = (RadioButton)findViewById(R.id.option_b);
+        optionsButton3 = (RadioButton)findViewById(R.id.option_c);
+        optionsButton4 = (RadioButton)findViewById(R.id.option_d);
+        next = (Button)findViewById(R.id.next_button);
+        prev = (Button)findViewById(R.id.prev_button);
+    }
+
+    private List<QuizObject> loadQuestionsAtPos(int position){
+
+        List<QuizObject> loadedQuestionsList = new ArrayList<>();
+
+        switch (position){
+            case 0:
+                String[] Q0 = getResources().getStringArray(R.array.Faith_Is_The_Substance); //array of loadQuestionsAtPos in faith is the substance
+
+                List<String[]> options_arr0 = new ArrayList<>(); // list of options array
+
+//                Collections.addAll(options_arr0);
+
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_one));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_two));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_three));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_four));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_five));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_six));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_seven));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_eight));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_nine));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_ten));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_eleven));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_twelve));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_thirteen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_fourteen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_fifteen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_sixteen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_seventeen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_eighteen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_nineteen));
+                options_arr0.add(getResources().getStringArray(R.array.Faith_Is_The_Substance_opt_twenty));
+
+                String[] A0 = getResources().getStringArray(R.array.Faith_Is_The_Substance_ans);
+
+                for (int i = 0; i < Q0.length; i++){
+                    loadedQuestionsList.add(new QuizObject(Q0[i], options_arr0, A0[i]));
+                }
+
+                for (int i = 0; i < options_arr0.get(0).length; i++){
+                    optionsButton1.setText(options_arr0.get(0)[0]);
+                    optionsButton2.setText(options_arr0.get(1)[1]);
+                    optionsButton3.setText(options_arr0.get(2)[2]);
+                    optionsButton4.setText(options_arr0.get(3)[3]);
+                }
+                break;
+
+            case 1:
+                //array of loadQuestionsAtPos in The Manifestation of the Spirit
+                String[] Q1 = getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit);
+
+                List<String[]> options_arr1 = new ArrayList<>(); // list of options array
+                //adding options array to list
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_one));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_two));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_three));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_four));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_five));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_six));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_seven));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_eight));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_nine));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_ten));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_eleven));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_twelve));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_thirteen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_fourteen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_fifteen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_sixteen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_seventeen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_eighteen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_nineteen));
+                options_arr1.add(getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_opt_twenty));
+
+                String[] A1 = getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit_ans);
+
+                for (int i = 0; i < Q1.length; i++){
+                    loadedQuestionsList.add(new QuizObject(Q1[i], options_arr1, A1[i]));
+                }
+                break;
+
+//            case 2:
+//                //array of loadQuestionsAtPos in The Manifestation of the Spirit
+//                String[] Q2 = getResources().getStringArray(R.array.The_Manifestation_Of_The_Spirit);
+//
+//                List<String[]> options_arr2 = new ArrayList<>(); // list of options array
+//
+//                options_arr2.add(getResources().getStringArray(R.array.Life_Of_Demons_And_Visions));
+        }
+        return loadedQuestionsList;
+    }
+}
