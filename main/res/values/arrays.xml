@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="quiz_topic">
+        <item>Faith Is The Substance</item>
+        <item>The Manifestation Of The Spirit</item>
+        <item>Life Of Demons, And Visions</item>
+        <item>Life Story</item>
+        <item>The Resurrection Of Lazarus</item>
+        <item>The Second Miracle</item>
+        <item>Early Spiritual Experiences</item>
+        <item>God Testifying Of His Gifts</item>
+        <item>Life Story</item>
+        <item>Expectancy</item>
+        <item>Do You Now Believe</item>
+        <item>Israel And The Church #1</item>
+        <item>Israel And The Church #2</item>
+        <item>Israel And The Church #3</item>
+        <item>Israel And The Church #4</item>
+        <item>Israel And The Church #5</item>
+        <item>The Ministry Of Christ</item>
+        <item>Demonology, Physical Realm</item>
+        <item>Demonology, Religious Realm</item>
+        <item>Earnestly Contending For The Faith That Was Once Delivered To The Saints</item>
+        <item>Questions And Answers On Genesis</item>
+        <item>The Twentieth-Century Prophet</item>
+        <item>Africa Trip Report</item>
+        <item>The Inside Man</item>
+        <item>The Deep Calleth To The Deep</item>
+        <item>Jubilee Year</item>
+        <item>Everlasting Life And How To Receive It</item>
+        <item>How The Angel Came To Me, And His Commission</item>
+        <item>This Great Warrior, David</item>
+        <item>This Great Warrior, Joshua</item>
+        <item>The Seven Compound Names Of Jehovah</item>
+        <item>My Redeemer Liveth</item>
+        <item>I Will Restore</item>
+        <item>Faith In Action</item>
+        <item>Come, Let Us Reason Together</item>
+        <item>The Power Of Decision</item>
+        <item>The Results Of Decision</item>
+        <item>The Calling Of Abraham</item>
+        <item>Why Are People So Tossed About</item>
+        <item>God Hath A Provided Way</item>
+        <item>The Inter­Veil</item>
+        <item>The Worst Sinner In The City</item>
+        <item>Being Led Of The Holy Spirit</item>
+        <item>God\'s Covenant With Abraham And His Seed</item>
+        <item>Jehovah­Jireh</item>
+        <item>What Is A Vision</item>
+        <item>Blind Bartimaeus</item>
+        <item>What Visions Are</item>
+        <item>Teaching On Moses</item>
+        <item>Love</item>
+        <item>Witnesses</item>
+        <item>Painted­Face Jezebel</item>
+        <item>India Trip Report</item>
+        <item>When Divine Love Is Projected, Sovereign Grace Takes Its Place</item>
+        <item>Why Is It That So Many Christians Find It So Hard To Live The Christian Life</item>
+        <item>God Keeps His Word #1</item>
+        <item>God Keeps His Word #2</item>
+        <item>God Projecting His Love</item>
+        <item>Hebrews, Chapter One</item>
+        <item>Hebrews, Chapter Two #1</item>
+        <item>Hebrews, Chapter Two #2</item>
+        <item>Hebrews, Chapter Two #3</item>
+        <item>Hebrews, Chapter Three</item>
+        <item>Hebrews, Chapter Four</item>
+        <item>Hebrews Chapter Five And Six #1</item>
+        <item>Hebrews, Chapter Six #2</item>
+        <item>Hebrews, Chapter Six #3</item>
+        <item>Hebrews, Chapter Seven #1</item>
+        <item>Hebrews, Chapter Seven #2</item>
+        <item>Questions And Answers On Hebrews #1</item>
+        <item>Questions And Answers On Hebrews #2</item>
+        <item>Questions And Answers On Hebrews #3</item>
+        <item>Have Faith In God</item>
+        <item>The Oneness Of Unity</item>
+        <item>The Handwriting On The Wall</item>
+        <item>Hear Ye Him</item>
+        <item>Life</item>
+        <item>The Placing Of Deacons</item>
+        <item>Church Order</item>
+        <item>Watchman, What Of The Night</item>
+        <item>Where Is He, King Of The Jews</item>
+        <item>Be Certain Of God</item>
+        <item>Living, Dying, Buried, Rising, Coming</item>
+        <item>Watching His Star</item>
+        <item>What Hearest Thou, Elijah</item>
+        <item>El­Shaddai</item>
+        <item>Jehovah­Jireh</item>
+        <item>My Life Story</item>
+        <item>All The Days Of Our Life</item>
+        <item>Questions And Answers</item>
+        <item>My New Ministry</item>
+        <item>Door To The Heart</item>
+        <item>What Is The Holy Ghost</item>
+        <item>What Was The Holy Ghost Given For</item>
+        <item>Questions And Answers On The Holy Ghost</item>
+        <item>Conference With God</item>
+        <item>A Super Sign</item>
+        <item>And From That Time</item>
+        <item>Conference With God</item>
+        <item>Go, Tell</item>
+        <item>I Know</item>
+        <item>The Rejected King</item>
+        <item>Adoption #1</item>
+        <item>Adoption #2</item>
+        <item>Adoption #3</item>
+        <item>Adoption #4</item>
+        <item>As I Was With Moses, So I Will Be With Thee</item>
+        <item>Five Definite Identifications Of The True Church Of The Living God</item>
+        <item>That Day On Calvary</item>
+        <item>Visions Of William Branham</item>
+        <item>The Revelation Of Jesus Christ</item>
+        <item>The Patmos Vision</item>
+        <item>The Ephesian Church Age</item>
+        <item>The Smyrnaean Church Age</item>
+        <item>The Pergamean Church Age</item>
+        <item>The Thyatirean Church Age</item>
+        <item>The Sardisean Church Age</item>
+        <item>The Philadelphian Church Age</item>
+        <item>The Ten Virgins, And The Hundred And Forty­Four Thousand Jews</item>
+        <item>The Laodicean Church Age</item>
+        <item>Revelation, Chapter Four #1</item>
+        <item>Revelation, Chapter Four #2</item>
+        <item>Revelation, Chapter Four #3</item>
+        <item>Jesus Christ The Same Yesterday, Today, And Forever</item>
+        <item>The Water Baptism</item>
+        <item>The Mark Of The Beast And The Seal Of God #1</item>
+        <item>The Mark Of The Beast And The Seal Of God #2</item>
+        <item>An Uncertain Sound</item>
+        <item>Jezebel Religion</item>
+        <item>The Greatest News Flash In History</item>
+        <item>The Forgotten Beatitude</item>
+        <item>Micaiah The Prophet</item>
+        <item>Gabriel\'s Instructions To Daniel</item>
+        <item>The Sixfold Purpose Of Gabriels Visit To Daniel</item>
+        <item>The Seventieth Week Of Daniel</item>
+        <item>Let Your Light So Shine Before Men</item>
+        <item>It Becometh Us To Fulfil All Righteousness</item>
+        <item>You Must Be Born Again</item>
+        <item>If God Be With Us, Then Where Is All The Miracles</item>
+        <item>Convinced then Concerned</item>
+        <item>An Ensign</item>
+        <item>Perseverance</item>
+        <item>The greatest battle ever fought</item>
+        <item>The Spoken Word Is The Original Seed</item>
+        <item>The End­Time Sign Seed</item>
+        <item>Wisdom Versus Faith</item>
+        <item>Letting Off The Pressure</item>
+        <item>Taking Sides With Jesus</item>
+        <item>The End­Time Evangelism</item>
+        <item>Putting On The Whole Armor Of God</item>
+        <item>Perseverance</item>
+        <item>A Testimony On The Sea</item>
+        <item>The Influence Of Another</item>
+        <item>The Stature Of A Perfect Man</item>
+        <item>Blasphemous Names</item>
+        <item>Why I\'m Against Organized Religion</item>
+        <item>Return And Jubilee</item>
+        <item>The Way Back</item>
+        <item>Remembering The Lord</item>
+        <item>The Falling Apart Of The World</item>
+        <item>The Reproach For The Cause Of The Word</item>
+        <item>Accepting God\'s Provided Way At The End Time</item>
+        <item>The Evening Messenger</item>
+        <item>The Way Of A True Prophet</item>
+        <item>The Voice Of God In This Last Days</item>
+        <item>Come, Follow Me</item>
+        <item>The Flashing Red Light Of The Sign Of His Coming</item>
+        <item>The Third Exodus</item>
+        <item>Is Your Life Worthy Of The Gospel</item>
+        <item>The Indictment</item>
+        <item>Why Cry Speak</item>
+        <item>Humble Thyself</item>
+        <item>A Prisoner</item>
+        <item>How Can I Overcome</item>
+        <item>Perfect Faith</item>
+        <item>Token</item>
+        <item>The World Is Again Falling Apart</item>
+        <item>Testimony</item>
+        <item>An Absolute</item>
+        <item>Why Little Bethlehem</item>
+        <item>We Have Seen His Star And Have Come To Worship Him</item>
+        <item>God\'s Gifts Always Find Their Places</item>
+        <item>Church Order</item>
+        <item>Shalom</item>
+        <item>God\'s Word Calls For A Total Separation From Unbelief</item>
+        <item>Looking Unto Jesus</item>
+        <item>Turn On The Light</item>
+        <item>God Is His Own Interpreter</item>
+        <item>Identification</item>
+        <item>Perseverant</item>
+        <item>God Is Identified By His Characteristics</item>
+        <item>Calling Jesus On The Scene</item>
+        <item>The Voice Of The Sign</item>
+        <item>The Identified Christ Of All Ages</item>
+        <item>Jesus Keeps All His Appointments</item>
+        <item>A Trial</item>
+        <item>The Oddball</item>
+        <item>The Presence Of God Unrecognized</item>
+        <item>Who Is Jesus</item>
+        <item>God Has A Provided Lamb</item>
+        <item>The Trial</item>
+        <item>The Mighty God Unveiled Before Us</item>
+        <item>The Masterpiece</item>
+        <item>Going Beyond The Camp</item>
+        <item>The Feast Of The Trumpets</item>
+        <item>Broken Cisterns</item>
+        <item>Recognizing Your Day And Its Message</item>
+        <item>The Future Home Of The Heavenly Bridegroom And The Earthly Bride</item>
+        <item>Proving His Word</item>
+        <item>Questions And Answers #1</item>
+        <item>Questions And Answers #2</item>
+        <item>Questions And Answers #3</item>
+        <item>Questions And Answers #4</item>
+        <item>The Harvest Time</item>
+        <item>Why It Had To Be Shepherd</item>
+        <item>Wedding Ceremony</item>
+        <item>A Paradox</item>
+        <item>The Seed Of Discrepancy</item>
+        <item>The God Who Is Rich In Mercy</item>
+        <item>Lean Not Unto Thy Own Understanding</item>
+        <item>Broken Cisterns</item>
+        <item>Birth Pains</item>
+        <item>This Day This Scripture Is Fulfilled</item>
+        <item>Doors In Door</item>
+        <item>A Man Running From The Presence Of The Lord</item>
+        <item>The Seed Is Not Heir With The Shuck</item>
+        <item>This Day This Scripture Is Fulfilled</item>
+        <item>God\'s Chosen Place Of Worship</item>
+        <item>Wedding Ceremony</item>
+        <item>Marriage And Divorce</item>
+        <item>Who Is This Melchisedec</item>
+        <item>The Easter Seal</item>
+        <item>It Is The Rising Of The Sun</item>
+        <item>Does God Ever Change His Mind About His Word</item>
+        <item>One In A Million</item>
+        <item>God\'s Provided Place Of Worship</item>
+        <item>Proving His Word</item>
+        <item>Does God Change His Mind</item>
+        <item>The Seed Shall Not Be Heir With The Shuck</item>
+        <item>The Choosing Of A Bride</item>
+        <item>Ashamed</item>
+        <item>Trying To Do God A Service Without Being The Will Of God</item>
+        <item>Spiritual Food In Due Season</item>
+        <item>The Anointed Ones At The End Time</item>
+        <item>What Is The Attraction On The Mountain</item>
+        <item>The God Of This Evil Age</item>
+        <item>Events Made Clear By Prophecy</item>
+        <item>And Knoweth It Not</item>
+        <item>Christ Is Revealed In His Own Word</item>
+        <item>A Thinking Man\'s Filter</item>
+        <item>Satan\'s Eden</item>
+        <item>God\'s Power To Transform</item>
+        <item>Thirst</item>
+        <item>Power Of Transformation</item>
+        <item>Leadership</item>
+        <item>What House Will You Build Me</item>
+        <item>The Invisible Union Of The Bride Of Christ</item>
+        <item>Works Is Faith Expressed</item>
+        <item>Trying To Do God A Service Without It Being God\'s Will</item>
+        <item>I Have Heard But Now I See</item>
+        <item>On The Wings Of A Snow­White Dove</item>
+        <item>God\'s Only Provided Place Of Worship</item>
+        <item>The Rapture</item>
+        <item>Things That Are To Be</item>
+        <item>Modern Events Are Made Clear By Prophecy</item>
+        <item>Leadership</item>
+        <item>Communion</item>
+
+    </string-array>
+    <string-array name="number">
+        <item>51-0508</item>
+        <item>51-0717</item>
+        <item>51-0721</item>
+        <item>51-0722A</item>
+        <item>51-0729A</item>
+        <item>51-0729E</item>
+        <item>52-0713A</item>
+        <item>52-0713E</item>
+        <item>52-0720A</item>
+        <item>52-0817A</item>
+        <item>52-0817E</item>
+        <item>53-0325</item>
+        <item>53-0326</item>
+        <item>53-0327</item>
+        <item>53-0328</item>
+        <item>53-0329</item>
+        <item>53-0607A</item>
+        <item>53-0608A</item>
+        <item>53-0609A</item>
+        <item>53-0614A</item>
+        <item>53-0729</item>
+        <item>53-0800</item>
+        <item>53-1114</item>
+        <item>53-1212</item>
+        <item>54-0624</item>
+        <item>54-1003E</item>
+        <item>54-1231</item>
+        <item>55-0117</item>
+        <item>55-0118</item>
+        <item>55-0119</item>
+        <item>55-0120</item>
+        <item>55-0410S</item>
+        <item>55-0626E</item>
+        <item>55-1003</item>
+        <item>55-1004</item>
+        <item>55-1007</item>
+        <item>55-1008</item>
+        <item>55-1116</item>
+        <item>56-0101</item>
+        <item>56-0108</item>
+        <item>56-0121</item>
+        <item>56-0218E</item>
+        <item>56-0219</item>
+        <item>56-0223</item>
+        <item>56-0224</item>
+        <item>56-0408A</item>
+        <item>56-0414</item>
+        <item>56-0421</item>
+        <item>56-0513</item>
+        <item>56-0726</item>
+        <item>56-0930E</item>
+        <item>56-1003</item>
+        <item>57-0126B</item>
+        <item>57-0126E</item>
+        <item>57-0303A</item>
+        <item>57-030</item>
+        <item>57-0307</item>
+        <item>57-0806</item>
+        <item>57-0821</item>
+        <item>57-0825M</item>
+        <item>57-0825E</item>
+        <item>57-0828</item>
+        <item>57-0901M</item>
+        <item>57-0901E</item>
+        <item>57-0908M</item>
+        <item>57-0908E</item>
+        <item>57-0915M</item>
+        <item>57-0915E</item>
+        <item>57-0922E</item>
+        <item>57-0925</item>
+        <item>57-1002</item>
+        <item>57-1006</item>
+        <item>58-0105</item>
+        <item>58-0128</item>
+        <item>58-0130</item>
+        <item>58-0209A</item>
+        <item>58-0519</item>
+        <item>58-0720E</item>
+        <item>58-1007</item>
+        <item>58-1130</item>
+        <item>58-1221M</item>
+        <item>59-0125</item>
+        <item>59-0329S</item>
+        <item>59-0411E</item>
+        <item>59-0412E</item>
+        <item>59-0416</item>
+        <item>59-0417</item>
+        <item>59-0419A</item>
+        <item>59-0612</item>
+        <item>59-0628A</item>
+        <item>59-1115</item>
+        <item>59-1128</item>
+        <item>59-1216</item>
+        <item>59-1217</item>
+        <item>59-1219</item>
+        <item>59-1220M</item>
+        <item>59-1227M</item>
+        <item>59-1231</item>
+        <item>60-0108</item>
+        <item>60-0417M</item>
+        <item>60-0417S</item>
+        <item>60-0515M</item>
+        <item>60-0515E</item>
+        <item>60-0518</item>
+        <item>60-0522M</item>
+        <item>60-0522E</item>
+        <item>60-0911M</item>
+        <item>60-0911E</item>
+        <item>60-0925</item>
+        <item>60-0930</item>
+        <item>60-1204M</item>
+        <item>60-1204E</item>
+        <item>60-1205</item>
+        <item>60-1206</item>
+        <item>60-1207</item>
+        <item>60-1208</item>
+        <item>60-1209</item>
+        <item>60-1210</item>
+        <item>60-1211M</item>
+        <item>60-1211E</item>
+        <item>60-1231</item>
+        <item>61-0101</item>
+        <item>61-0108</item>
+        <item>61-0118</item>
+        <item>61-0120</item>
+        <item>61-0216</item>
+        <item>61-0217</item>
+        <item>61-0315</item>
+        <item>61-0319</item>
+        <item>61-0424</item>
+        <item>61-0425E</item>
+        <item>61-0426</item>
+        <item>61-0730M</item>
+        <item>61-0730E</item>
+        <item>61-0806</item>
+        <item>61-0903</item>
+        <item>61-1001M</item>
+        <item>61-1231M</item>
+        <item>61-1231E</item>
+        <item>62-0118</item>
+        <item>62-0119</item>
+        <item>62-0218</item>
+        <item>62-0311</item>
+        <item>62-0318</item>
+        <item>62-0319</item>
+        <item>62-0401</item>
+        <item>62-0513E</item>
+        <item>62-0601</item>
+        <item>62-0603</item>
+        <item>62-0607</item>
+        <item>62-0608</item>
+        <item>62-0720</item>
+        <item>62-1013</item>
+        <item>62-1014M</item>
+        <item>62-1104M</item>
+        <item>62-1111E</item>
+        <item>62-1122</item>
+        <item>62-1123</item>
+        <item>62-1209</item>
+        <item>62-1216</item>
+        <item>62-1223</item>
+        <item>63-0115</item>
+        <item>63-0116</item>
+        <item>63-0119</item>
+        <item>63-0120M</item>
+        <item>63-0601</item>
+        <item>63-0623E</item>
+        <item>63-0630M</item>
+        <item>63-0630E</item>
+        <item>63-0707M</item>
+        <item>63-0714M</item>
+        <item>63-0714E</item>
+        <item>63-0717</item>
+        <item>63-0825M</item>
+        <item>63-0825E</item>
+        <item>63-0901M</item>
+        <item>63-1127</item>
+        <item>63-1128M</item>
+        <item>63-1201M</item>
+        <item>63-1214</item>
+        <item>63-1216</item>
+        <item>63-1222</item>
+        <item>63-1226</item>
+        <item>64-0112</item>
+        <item>64-0121</item>
+        <item>64-0122</item>
+        <item>64-0125</item>
+        <item>64-0205</item>
+        <item>64-0216</item>
+        <item>64-0305</item>
+        <item>64-0311</item>
+        <item>64-0319</item>
+        <item>64-0321E</item>
+        <item>64-0401</item>
+        <item>64-0418E</item>
+        <item>64-0427</item>
+        <item>64-0531</item>
+        <item>64-0618</item>
+        <item>64-0620B</item>
+        <item>64-0620E</item>
+        <item>64-0621</item>
+        <item>64-0629</item>
+        <item>64-0705</item>
+        <item>64-0719E</item>
+        <item>64-0719M</item>
+        <item>64-0726E</item>
+        <item>64-0726M</item>
+        <item>64-0802</item>
+        <item>64-0816</item>
+        <item>64-0823M</item>
+        <item>64-0823E</item>
+        <item>64-0830M</item>
+        <item>64-0830E</item>
+        <item>64-1212</item>
+        <item>64-1221</item>
+        <item>65-0116X</item>
+        <item>65-0117</item>
+        <item>65-0118</item>
+        <item>65-0119</item>
+        <item>65-0120</item>
+        <item>65-0123</item>
+        <item>65-0124</item>
+        <item>65-0125</item>
+        <item>65-0206</item>
+        <item>65-0217</item>
+        <item>65-0218</item>
+        <item>65-0219</item>
+        <item>65-0220</item>
+        <item>65-0220X</item>
+        <item>65-0221M</item>
+        <item>65-0221E</item>
+        <item>65-0410</item>
+        <item>65-0418M</item>
+        <item>65-0418E</item>
+        <item>65-0424</item>
+        <item>65-0425</item>
+        <item>65-0426</item>
+        <item>65-0427</item>
+        <item>65-0429B</item>
+        <item>65-0429E</item>
+        <item>65-0711</item>
+        <item>65-0718M</item>
+        <item>65-0718E</item>
+        <item>65-0725M</item>
+        <item>65-0725E</item>
+        <item>65-0801M</item>
+        <item>65-0801</item>
+        <item>65-0815</item>
+        <item>65-0822M</item>
+        <item>65-0822E</item>
+        <item>65-0829</item>
+        <item>65-0911</item>
+        <item>65-0919</item>
+        <item>65-1031M</item>
+        <item>65-1031A</item>
+        <item>65-1121</item>
+        <item>65-1125</item>
+        <item>65-1126</item>
+        <item>65-1127B</item>
+        <item>65-1127E</item>
+        <item>65-1128E</item>
+        <item>65-1128M</item>
+        <item>65-1204</item>
+        <item>65-1205</item>
+        <item>65-1206</item>
+        <item>65-1207</item>
+        <item>65-1212</item>
+    </string-array>
+</resources>

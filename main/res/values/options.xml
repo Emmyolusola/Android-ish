@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 51-0508 Faith is the Substance -->
+    <string-array name="Faith_Is_The_Substance_opt_one">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_two">
+        <item>Confess, believe, live</item>
+        <item>Believe, confess, live </item>
+        <item>Think, believe, live </item>
+        <item>Feel, believe, pray </item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_three">
+        <item>Love</item>
+        <item>Prophecy</item>
+        <item>Teach</item>
+        <item>Speak with tongues</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_four">
+        <item>Joel 2:28</item>
+        <item>Acts 2:38</item>
+        <item>Hebrews 13:8</item>
+        <item>Hebrews 11:1</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_five">
+        <item>Evidence, substance</item>
+        <item>Circumstance, evidence</item>
+        <item>Substance, evidence</item>
+        <item>Visual, substance</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_six">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_seven">
+        <item>Brother Jones</item>
+        <item>Brother Sothman</item>
+        <item>Brother Joseph Boze</item>
+        <item>Reverend Kopp</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_eight">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_nine">
+        <item>Faith</item>
+        <item>Righteousness</item>
+        <item>Saints</item>
+        <item>Respects</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_ten">
+        <item>Fifty</item>
+        <item>Ninety</item>
+        <item>Seventy­five</item>
+        <item>Ninety­nine</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_eleven">
+        <item>Sin, forgiveness</item>
+        <item>Sin, judgment</item>
+        <item>Satan, hell</item>
+        <item>Judgment, hell</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_twelve">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_thirteen">
+        <item>Encouraged them</item>
+        <item>Departed from them without saying a word</item>
+        <item>Told them it was okay to disbelieve</item>
+        <item>Upbraided them</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_fourteen">
+        <item>Live, preach</item>
+        <item>Preach, live</item>
+        <item>Teach, preach</item>
+        <item>Speak, scream</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_fifteen">
+        <item>Isaiah using poultice to heal Hezekiah of his boils</item>
+        <item>Elisha and the meal offering</item>
+        <item>Things dipped in water</item>
+        <item>Jesus putting mud on a man\'s eyes</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_sixteen">
+        <item>To pray for the sick</item>
+        <item>To see God\'s Church welded together</item>
+        <item>To show signs and wonders before the people</item>
+        <item>To separate the Church from denominations</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_seventeen">
+        <item>Come try it, confess it anyhow, and hold with it till it does come to pass</item>
+        <item>Not to come through the line until you fully believe </item>
+        <item>To remain in your seats and stay in prayer</item>
+        <item>To leave the building</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_eighteen">
+        <item>Paul is his nickname  </item>
+        <item>He preferred to be called Paul</item>
+        <item>Brother Branham\'s name is Billy too</item>
+        <item>Paul is his first name</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_nineteen">
+        <item>Only those with prayer cards  </item>
+        <item>Prayer cards 50 to 100</item>
+        <item>Only the very sick people</item>
+        <item>Everybody</item>
+    </string-array>
+    <string-array name="Faith_Is_The_Substance_opt_twenty">
+        <item>A lady on a cot  </item>
+        <item>A lady with a pink dress on</item>
+        <item>A young man with cancer</item>
+        <item>A man that was trying to quit smoking</item>
+    </string-array>
+
+    <!-- 55-0717 The Manifestation of the Spirit -->
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_one">
+        <item>Judges 15:14</item>
+        <item>Ezekiel 10:2</item>
+        <item>I Corinthians 13:3</item>
+        <item>Exodus 23:20</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_two">
+        <item>To be set free</item>
+        <item>For something to eat</item>
+        <item>A glass of water</item>
+        <item>For one final prayer</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_three">
+        <item>Canada</item>
+        <item>France</item>
+        <item>Germany</item>
+        <item>Africa</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_four">
+        <item>Fanatic to holy­roller</item>
+        <item>Fundamental to Full Gospel</item>
+        <item>Sinner to saint</item>
+        <item>Old to young</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_five">
+        <item>Henry</item>
+        <item>Howard</item>
+        <item>Harvey</item>
+        <item>Harris</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_six">
+        <item>A real one</item>
+        <item>A designer</item>
+        <item>A fake</item>
+        <item>A perfect match</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_seven">
+        <item>"Them men are men of God that tell us the way of life."  </item>
+        <item>"Them men are of the Devil, cast them out."</item>
+        <item>"Them holy­rollers are full of fanaticism."</item>
+        <item>"These men speak words of wisdom."</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_eight">
+        <item>Clyde Barrow</item>
+        <item>John Wilkes Booth</item>
+        <item>Billy The Kid</item>
+        <item>John Dillinger</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_nine">
+        <item>True</item>
+        <item>False</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_ten">
+        <item>An angel</item>
+        <item>A raven</item>
+        <item>The Angel of the Lord</item>
+        <item>A dove</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_eleven">
+        <item>50</item>
+        <item>75</item>
+        <item>20</item>
+        <item>100</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_twelve">
+        <item>Flint, Michigan</item>
+        <item>Richmond, Virginia</item>
+        <item>Chicago, Illinois</item>
+        <item>Jeffersonville, Indiana</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_thirteen">
+        <item>He asked God to heal Gehazi.</item>
+        <item>He asked God to open Gehazi\'s eyes.</item>
+        <item>He asked God for strength to fight the Philistines.</item>
+        <item>He asked God to hide Gehazi from the Philistines.</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_fourteen">
+        <item>At pharaoh\'s palace</item>
+        <item>In the fiery furnace</item>
+        <item>On Mt. Sinai</item>
+        <item>In Solomon\'s temple</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_fifteen">
+        <item>Emotions  </item>
+        <item>Parents</item>
+        <item>Weather</item>
+        <item>Future</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_sixteen">
+        <item>Hot</item>
+        <item>Cold</item>
+        <item>Very Warm</item>
+        <item>Very Cool</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_seventeen">
+        <item>A checkbook</item>
+        <item>A receipt</item>
+        <item>Money</item>
+        <item>The world</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_eighteen">
+        <item>Cincinnati</item>
+        <item>Jeffersonville</item>
+        <item>Cleveland</item>
+        <item>Columbus</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_nineteen">
+        <item>Five thousand</item>
+        <item>Two hundred</item>
+        <item>Eighty</item>
+        <item>Ten thousand</item>
+    </string-array>
+    <string-array name="The_Manifestation_Of_The_Spirit_opt_twenty">
+        <item>Ten years ago</item>
+        <item>Two or three years ago</item>
+        <item>Seventeen years ago</item>
+        <item>Two thousand years ago</item>
+    </string-array>
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginLeft="5dp"
+        android:id="@+id/text_question"
+        android:text="Question comes here"
+        android:textSize="20dp"/>
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_question"
+        android:id="@+id/radio_group">
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_a"
+            android:layout_below="@id/text_question"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_b"
+            android:layout_below="@id/option_a"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_c"
+            android:layout_below="@id/option_b"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"/>
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/option_d"
+            android:layout_below="@id/option_c"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="10dp"/>
+    </RadioGroup>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/prev_button"
+        android:layout_below="@id/radio_group"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="30dp"
+        android:text="Prev"
+        android:background="#2fd15f"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/next_button"
+        android:layout_toRightOf="@id/prev_button"
+        android:layout_marginTop="20dp"
+        android:layout_below="@id/radio_group"
+        android:layout_marginLeft="150dp"
+        android:text="Next"
+        android:background="#2fd15f"/>
+</RelativeLayout>
